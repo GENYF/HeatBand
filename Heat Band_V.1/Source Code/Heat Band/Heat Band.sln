@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Heat Band", "Heat Band.vcxproj", "{632F6CAE-A210-473C-9180-343A21E0C674}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		C:\Users\gnyf0\Documents\Arduino\libraries\SDS011_sensor_Library\SDS011_sensor_Library.vcxitems*{632f6cae-a210-473c-9180-343a21e0c674}*SharedItemsImports = 4
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{632F6CAE-A210-473C-9180-343A21E0C674}.Debug|x86.ActiveCfg = Debug|Win32
+		{632F6CAE-A210-473C-9180-343A21E0C674}.Debug|x86.Build.0 = Debug|Win32
+		{632F6CAE-A210-473C-9180-343A21E0C674}.Release|x86.ActiveCfg = Release|Win32
+		{632F6CAE-A210-473C-9180-343A21E0C674}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B93A496-FD0A-468D-9458-B4F6112AEC83}
+	EndGlobalSection
+EndGlobal

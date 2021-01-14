@@ -8,3 +8,7 @@
 
 3. 기대 효과
 “Heat Band”는 착용하기만 해도 몸 상태를 모니터링 가능하며 진동과 OLED로 매우 간편하게 자신의 몸상태를 확인하며, 알림을 받을 수 있다. 이를 통해 적절한 휴식과 수분 섭취를 통해 온혈질환을 예방하고 위급상황 발생시 올바르게 대처가 가능하다.
+
+---
+
+<a rel="license" href="http://creativecommons.org/licenses/by/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 Unported License</a>.
